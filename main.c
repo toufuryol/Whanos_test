@@ -2,6 +2,6 @@
 
 int main()
 {
-  printf("waishe la zone");
+  printf("wa la zone");
   return 0;
 }
